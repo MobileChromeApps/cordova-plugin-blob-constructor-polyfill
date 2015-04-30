@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-blob-constructor-polyfill",
-  "version": "1.0.2",
+  "version": "1.0.3-dev",
   "description": "A Cordova plugin which provides Blob() constructor syntax for versions of Android which do not support it.",
   "cordova": {
     "id": "cordova-plugin-blob-constructor-polyfill",
