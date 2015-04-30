@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-blob-constructor-polyfill",
+  "version": "1.0.2-dev",
+  "description": "A Cordova plugin which provides Blob() constructor syntax for versions of Android which do not support it.",
+  "cordova": {
+    "id": "cordova-plugin-blob-constructor-polyfill",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-blob-constructor-polyfill.git"
+  },
+  "keywords": [
+    "chrome",
+    "blob",
+    "polyfill",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-blob-constructor-polyfill/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-blob-constructor-polyfill"
+}
